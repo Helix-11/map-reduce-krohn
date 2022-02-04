@@ -8,7 +8,7 @@ I wondered "out of the 100 most popular crypto projects, how many of them ended 
 
 From the initial dataset, I'll map to key-value pairs: crypto, amount. 
 In my case, I used the terminal "sort" command to put them in alphabetical order, so it was easier to look at.
-A command I did find helpful was "Select-Object -Skip 1" because after mapping, my first line in my command was "crypto, amount".
+A command I found helpful was "Select-Object -Skip 1" because after mapping, my first line in my command was "crypto, amount".
 Then, I'll reduce all the key-value pairs to keep only the crypto coins whose performance was less than 0 in a 24H period.
 
 ```PowerShell

@@ -21,3 +21,7 @@ The result is out of 100 coins, 82 cryptocurrencies performed negatively.
 In Excel, I created a graph to show from 0 to -40 how poorly the 82 cryptocurrencies I was left with performed.
 
 ![Crypto Chart](cryptoData.PNG)
+
+#Kaggle Dataset
+
+- [Dataset](https://www.kaggle.com/majyhain/top-100-cryptocurrency-2022)

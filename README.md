@@ -1,6 +1,6 @@
 ### map-reduce-krohn
 Practicing mapping and reducing
-## Observing Crypocurrencies using Big Data
+## Observing Cryptocurrencies using Big Data
 
 I found a Kaggle dataset that had all of the changes for the top 100 crypto coins over a 24H, 30D, and 1Y period.
 I know that there has been a lot of false hype behind a lot of crypto coin projects and I personally like a lot of other people have lost money in the crypto market.
